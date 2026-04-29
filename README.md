@@ -1,5 +1,5 @@
 # Random-Task-Generator# Random Task Generator
-**Автор:**Панов Максим 
+**Автор:** Панов Максим 
 
 ## Описание
 
